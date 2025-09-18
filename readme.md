@@ -7,7 +7,7 @@
 ## 📌 Table of Contents
 
 * <a href="#overview">Overview</a>
-* <a href="#business-problem">Business Problem</a>
+* <a href="#business-problem">Objective</a>
 * <a href="#dataset">Dataset</a>
 * <a href="#tools--technologies">Tools & Technologies</a>
 * <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
@@ -32,7 +32,7 @@ Key features:
 
 ---
 
-<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>  
+<h2><a class="anchor" id="business-problem"></a>Objective</h2>  
 
 Dermatological datasets often lack diversity, leading to **misdiagnosis and healthcare disparities** for underrepresented populations. This project aims to:
 
@@ -146,5 +146,5 @@ pip install -r requirements.txt
 * **Team Members:** Nihal, Kishor S Naik, Neil Mascarenhas, Prajwal P
 * **Institute:** NMAM Institute of Technology, Nitte
 * **Guide:** Ms. Ashwitha C Thomas (Assistant Professor, ISE Dept.)
-* 📧 Contact: \[[your.nihalkanchan888@gmail.com](mailto:nihalkanchan888@gmail.com)]
+* 📧 Contact: \[[nihalkanchan888@gmail.com](mailto:nihalkanchan888@gmail.com)]
 
