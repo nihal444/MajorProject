@@ -106,17 +106,16 @@ Dermatological datasets often lack diversity, leading to **misdiagnosis and heal
 
 <h2><a class="anchor" id="project-images"></a>Project Images</h2>  
 
-* Preprocessing (resizing, hair removal)
-* GAN-generated synthetic lesion images
-* CNN classification predictions & confusion matrices
-* Training history (before & after augmentation)
-* Real-time prediction UI
-
-```markdown
-![Preprocessing](images/preprocessing/sample.png)  
-![GAN Outputs](images/gan_outputs/synthetic.png)  
-![CNN Predictions](images/cnn_predictions/confusion_matrix.png)  
-![UI Screenshot](images/ui_screenshots/app.png)  
+![Image1](Project_images/M1.png)  
+![Image1](Project_images/M2.png)
+![Image1](Project_images/M3.png)
+![Image1](Project_images/M4.png)
+![Image1](Project_images/M5.png)
+![Image1](Project_images/M6.png)
+![Image1](Project_images/M7.png)
+![Image1](Project_images/M8.png)
+![Image1](Project_images/M9.png) 
+![Image1](Project_images/M10.png)
 ```
 
 ---
